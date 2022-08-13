@@ -1,6 +1,6 @@
 ![React-Native-Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 # Expo-Auth0 Integration template
-> Please, check the main repository that I retrieve **all** this information from: <a href='https://github.com/expo/examples/tree/master/with-auth0' target='_blank'>https://github.com/expo/examples/tree/master/with-auth0</a>
+> Please, check the main repository that I retrieve **all** this information from: [https://github.com/expo/examples/tree/master/with-auth0][MainRepo]
 
 
 
@@ -72,6 +72,7 @@ yarn
 
 </center>
 
+[MainRepo]:https://github.com/expo/examples/tree/master/with-auth0
 [Auth0]:https://auth0.com/
 [Domain-and-ClientId-Screenshot]:https://i.ibb.co/qFLJ1X9/Screenshot-140.png
 [Auth0-Advanced-Settings]:https://i.ibb.co/7tCH05k/Screenshot-141.png
