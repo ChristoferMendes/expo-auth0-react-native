@@ -54,7 +54,7 @@ yarn
 </center>
 
 
-> Hit `Aplications` → `Create application` → Select **Native**, give it a name and create the Application
+> Hit `Applications` → `Create application` → Select **Native**, give it a name and create the Application
 
 
 ## **Retrieving important info for App.tsx**
