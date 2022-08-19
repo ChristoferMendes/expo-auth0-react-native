@@ -72,10 +72,12 @@ yarn
     
  ## Callback URI:
 
-![image](https://user-images.githubusercontent.com/107426464/185619397-6ed76965-606a-4939-855a-e10575ca69be.png)
-> To grab these links, please, go to [Expo.dev](https://expo.dev/), log in or register and create a application there (The site is all very clear 😊). They will give you a link simmilar to the image!
+![Auth0Links][Auth0Links]
+> To grab these links, please, go to [Expo.dev][ExpoDev], log in or register and create a application there (The site is all very clear 😊). They will give you a link simmilar to the image!
 </center>
 
+[Auth0Links]: https://user-images.githubusercontent.com/107426464/185619397-6ed76965-606a-4939-855a-e10575ca69be.png
+[ExpoDev]: https://expo.dev/
 [MainRepo]:https://github.com/expo/examples/tree/master/with-auth0
 [Auth0]:https://auth0.com/
 [Domain-and-ClientId-Screenshot]:https://i.ibb.co/qFLJ1X9/Screenshot-140.png
