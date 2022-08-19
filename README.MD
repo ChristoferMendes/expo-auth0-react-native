@@ -28,7 +28,7 @@ yarn
 > ## Runnig the Project
 > - Create your own app on [**Auth0**][Auth0].
 > - Add the `AuthSession` auth URL to `Allowed Callback URLs` on [**Auth0**][Auth0].
-> - Open **App.tsx** → replace `auth0ClientId` and `authorizationEndpoint` with your respectives **Auth0 App Settings** (to grab this infos go to Expo site, create an acouunt and a App there).
+> - Open **App.tsx** → replace `auth0ClientId` and `authorizationEndpoint` with your respectives **Auth0 App Settings** 
 > - _Follow the_ <a href='#auth0-integration'>Auth0 Integration section</a> _for a better step by step on how to get these settings_
 
 ## ***Extra***
@@ -69,7 +69,11 @@ yarn
 > You can see this information better in **Advanced Settings**, on the same page:
 >
 > ![Auth0-Advanced-Settings][Auth0-Advanced-Settings]
+    
+ ## Callback URI:
 
+![image](https://user-images.githubusercontent.com/107426464/185619397-6ed76965-606a-4939-855a-e10575ca69be.png)
+> To grab these links, please, go to {Expo.dev](https://expo.dev/), log in or register and create a application there (The site is all very clear 😊). They will give you a link simmilar to the image!
 </center>
 
 [MainRepo]:https://github.com/expo/examples/tree/master/with-auth0
