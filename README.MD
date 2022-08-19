@@ -73,7 +73,7 @@ yarn
  ## Callback URI:
 
 ![image](https://user-images.githubusercontent.com/107426464/185619397-6ed76965-606a-4939-855a-e10575ca69be.png)
-> To grab these links, please, go to {Expo.dev](https://expo.dev/), log in or register and create a application there (The site is all very clear 😊). They will give you a link simmilar to the image!
+> To grab these links, please, go to [Expo.dev](https://expo.dev/), log in or register and create a application there (The site is all very clear 😊). They will give you a link simmilar to the image!
 </center>
 
 [MainRepo]:https://github.com/expo/examples/tree/master/with-auth0
