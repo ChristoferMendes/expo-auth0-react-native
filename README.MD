@@ -70,7 +70,7 @@ yarn
 >
 > ![Auth0-Advanced-Settings][Auth0-Advanced-Settings]
     
- ## Callback URI:
+ ## Auth0 links:
 
 ![Auth0Links][Auth0Links]
 > To grab these links, please, go to [Expo.dev][ExpoDev], log in or register and create a application there (The site is all very clear 😊). They will give you a link simmilar to the image!
