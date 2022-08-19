@@ -28,7 +28,7 @@ yarn
 > ## Runnig the Project
 > - Create your own app on [**Auth0**][Auth0].
 > - Add the `AuthSession` auth URL to `Allowed Callback URLs` on [**Auth0**][Auth0].
-> - Open **App.tsx** → replace `auth0ClientId` and `authorizationEndpoint` with your respectives **Auth0 App Settings**
+> - Open **App.tsx** → replace `auth0ClientId` and `authorizationEndpoint` with your respectives **Auth0 App Settings** (to grab this infos go to Expo site, create an acouunt and a App there).
 > - _Follow the_ <a href='#auth0-integration'>Auth0 Integration section</a> _for a better step by step on how to get these settings_
 
 ## ***Extra***
